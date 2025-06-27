@@ -37,7 +37,6 @@ This display welcomes you into the app after lunching it.
 
 
 
-
 Here we give a brief discription og the app 
 ![on boarding](https://github.com/user-attachments/assets/5db0d6eb-f5b0-4525-bbb1-1b908f29d627)
 
@@ -331,3 +330,8 @@ Here one can set profile,change password, ask for help and add emails.
 
 
 ![setup](https://github.com/user-attachments/assets/0fcf901b-1ddf-4107-bad3-2ab4adca5a01)
+
+
+
+
+
