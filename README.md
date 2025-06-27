@@ -154,13 +154,15 @@ Here is the home page were you balance,float and bottom navigation bars are loca
 
 
 
-Here one can see their account balance and past transaction.
-![account balance](https://github.com/user-attachments/assets/a8e67d7c-65af-4c1f-b475-781f4faff8c0)
 
 
 
 
 
+
+
+Here one can chech and see their account balance.
+![account balance](https://github.com/user-attachments/assets/e2b0ff7d-9138-4b95-877a-4ddf28f5fc1a)
 
 
 
